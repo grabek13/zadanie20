@@ -1,0 +1,28 @@
+#podpunkt1 {
+    color: chocolate;
+}
+#podpunkt2 {
+    color: darkgoldenrod;
+}
+#podpunkt3 {
+    color: darksalmon;
+}
+#podpunkt4 {
+    color: brown;
+}
+#podpunkt5 {
+    color: darkgray;
+}
+h1 {
+    color: darkcyan;
+}
+h1 + p {
+    color: darkkhaki;
+}
+h2 {
+    color: darkseagreen;
+}
+h2 + p {
+    color: darkslategrey;
+}
+

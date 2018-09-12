@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    background-color: beige;
+}
+h1 + p {
+    background-color: blanchedalmond;
+}
+h2 {
+    background-color: burlywood;
+}
+h2 + p {
+    background-color: bisque;
+}
+ul {
+    background-color: cornsilk;
+}
